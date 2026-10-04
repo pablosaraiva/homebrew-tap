@@ -2,7 +2,7 @@ class Phosphor < Formula
   desc "Terminal-styled personal life dashboard with a local AI agent (macOS)"
   homepage "https://github.com/pablosaraiva/homebrew-tap"
   version "0.2.0"
-  sha256 "caaf5850e8e31911de0d546b48d711f39e2cd44e1fdf217753a810f68987a4d1"
+  sha256 "2458f0d21a5bca64a09fbe5cb58725aa76f8f3847f78c8b653dc2a69cf714388"
   url "https://github.com/pablosaraiva/homebrew-tap/releases/download/v0.2.0/phosphor-0.2.0.tar.gz"
 
   depends_on "openjdk@25"
