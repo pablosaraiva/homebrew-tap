@@ -1,9 +1,9 @@
 class Phosphor < Formula
   desc "Terminal-styled personal life dashboard with a local AI agent (macOS)"
   homepage "https://github.com/pablosaraiva/homebrew-tap"
-  version "0.1.0"
-  sha256 "db403cc25f62bf416214cb51c61527d0bd557d6902f49cad72f7cfd489055044"
-  url "https://github.com/pablosaraiva/homebrew-tap/releases/download/v0.1.0/phosphor-0.1.0.tar.gz"
+  version "0.2.0"
+  sha256 "5f5e1ef1b999358cf11c0efdab29e6e3cada8aa2eea2753af494248b6e15b17f"
+  url "https://github.com/pablosaraiva/homebrew-tap/releases/download/v0.2.0/phosphor-0.2.0.tar.gz"
 
   depends_on "openjdk@25"
   depends_on "postgresql@18"
