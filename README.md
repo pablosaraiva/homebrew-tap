@@ -7,7 +7,7 @@ A Homebrew tap for [Phosphor](https://github.com/pablosaraiva/homebrew-tap/relea
     brew tap pablosaraiva/tap
     brew install phosphor
 
-Homebrew resolves the prerequisites (Java, PostgreSQL, Ollama). Then:
+Homebrew resolves the prerequisites (Java and Ollama — the app carries no database: its whole persistent state lives in one JSON file). Then:
 
     phosphor start
 

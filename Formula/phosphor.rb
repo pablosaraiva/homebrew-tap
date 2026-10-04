@@ -6,7 +6,6 @@ class Phosphor < Formula
   url "https://github.com/pablosaraiva/homebrew-tap/releases/download/v0.2.0/phosphor-0.2.0.tar.gz"
 
   depends_on "openjdk@25"
-  depends_on "postgresql@18"
   depends_on "ollama"
 
   def install
